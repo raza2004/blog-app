@@ -18,54 +18,54 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Key features implemented:
 
-Static Site Generation with getStaticProps/getStaticPaths
+- Static Site Generation with getStaticProps/getStaticPaths
 
-Responsive grid layout using Tailwind CSS
+- Responsive grid layout using Tailwind CSS
 
-Dynamic routing for post details
+- Dynamic routing for post details
 
-Hashtag filtering system
+- Hashtag filtering system
 
-Active navigation highlighting
+- Active navigation highlighting
 
-Interactive UI components
+- Interactive UI components
 
-Mobile-first design approach
+- Mobile-first design approach
 
-To run the application:
+- To run the application:
 
-Clone the repository
+- Clone the repository
 
-Install dependencies: npm install
+- Install dependencies: npm install
 
-Run development server: npm run dev
+- Run development server: npm run dev
 
-Open http://localhost:3000
+- Open http://localhost:3000
 
-The application demonstrates:
+- The application demonstrates:
 
-Next.js static generation capabilities
+- Next.js static generation capabilities
 
-Tailwind CSS responsive design patterns
+- Tailwind CSS responsive design patterns
 
-Clean component architecture
+- Clean component architecture
 
-Client-side filtering implementation
+- Client-side filtering implementation
 
-Proper routing and navigation
+- Proper routing and navigation
 
-Error handling and fallback states
+- Error handling and fallback states
 
-The code follows best practices for:
+- The code follows best practices for:
 
-Component reusability
+- Component reusability
 
-Separation of concerns
+- Separation of concerns
 
-Proper data fetching patterns
+- Proper data fetching patterns
 
-Responsive design implementation
+- Responsive design implementation
 
-Interactive UI elements
+- Interactive UI elements
 
-Code maintainability
+- Code maintainability
