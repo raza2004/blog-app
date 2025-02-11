@@ -1,4 +1,5 @@
 import Navbar from '../components/navbar'
+import BottomBar from '../components/BottomBar'
 import HomePageContent from '../components/HomePageContent'
 
 export default async function Home() {
@@ -7,9 +8,12 @@ export default async function Home() {
   const posts = await res.json()
 
   return (
-    <div>
+    <div className='relative h-auto '>
       <Navbar />
       <HomePageContent posts={posts} />
+      
+      <BottomBar />
+    
     </div>
   )
 }
